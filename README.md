@@ -1,7 +1,7 @@
 # RFM Customer Segmentation Analysis
 ### PostgreSQL + Power BI | Identifying High-Value Customers, Recovery Opportunities, and Churn Risk Across 4,337 Customers
 
-![RFM Dashboard](outputs/powerbi/dashboard_screenshot.png)
+![RFM Dashboard](outputs/powerbi/rfm_segmentation.png)
 
 ---
 
